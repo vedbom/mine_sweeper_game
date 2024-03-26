@@ -1,5 +1,6 @@
 # mine_sweeper_game
 Mine Sweeper clone created in the Processing programming environment.
+
 To play the game:
 - Click on a square using the right mouse button (RMB) to reveal the number of mines surrounding it
 - Clicking on a square containing a mine will end the game
